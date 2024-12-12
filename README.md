@@ -1,7 +1,7 @@
-<h3>link - https://sortingvisualtorq.netlify.app</h3>
+<h1>link - https://sortingvisualtorq.netlify.app</h1>
 
 
-**Features Added**
+<h1>**Features Added**</h1>
 
 ✅ Control Visualization Speed
 
@@ -11,7 +11,7 @@
 
 ✅ Choose various algorithms
 
-**Features to Add**
+<h1>**Features to Add**</h1>
 
 🔧 Make Interface More Mobile Friendlly
 
@@ -19,7 +19,7 @@
 
 🔧 ToolTip at Size Slider
 
-**Algorithms Visualized**
+<h1>**Algorithms Visualized**</h1>
 
 ✅ Bubble Sort
 
@@ -31,7 +31,7 @@
 
 ✅ Merge Sort
 
-**Algorithms to Add**
+<h1>**Algorithms to Add**</h1>
 
 🔧 QuickSort (Hoarse Partition)
 
@@ -39,7 +39,7 @@
 
 🔧 Radix Sort
 
-**Technologies Used**
+<h1>**Technologies Used**</h1>
 
 ✅ HTML
 
