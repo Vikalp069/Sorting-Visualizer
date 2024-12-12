@@ -1,4 +1,4 @@
-<h1>link - https://sortingvisualtorq.netlify.app</h1>
+<h1>https://sortingvisualtorq.netlify.app</h1>
 
 
 <h1>Features Added</h1>
