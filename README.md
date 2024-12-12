@@ -1,4 +1,4 @@
-Features Added
+**Features Added**
 ✅ Control Visualization Speed
 
 ✅ Change array size
@@ -7,14 +7,14 @@ Features Added
 
 ✅ Choose various algorithms
 
-Features to Add
+**Features to Add**
 🔧 Make Interface More Mobile Friendlly
 
 🔧 Visualization with sound
 
 🔧 ToolTip at Size Slider
 
-Algorithms Visualized
+**Algorithms Visualized**
 ✅ Bubble Sort
 
 ✅ Insertion Sort
@@ -25,14 +25,14 @@ Algorithms Visualized
 
 ✅ Merge Sort
 
-Algorithms to Add
+**Algorithms to Add**
 🔧 QuickSort (Hoarse Partition)
 
 🔧 Shell Sort
 
 🔧 Radix Sort
 
-Technologies Used
+**Technologies Used**
 ✅ HTML
 
 ✅ CSS
